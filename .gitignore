@@ -3,5 +3,5 @@
 *.pdf
 *.ods
 *.tar*
-LABs/
-TMP/
+.LABs/
+.TMP/
